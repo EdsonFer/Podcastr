@@ -35,7 +35,7 @@ export default function Episode({ episode }: EpisodeProps) {
 				<title>{episode.title} | Podcastr</title>
 			</Head>
 			<div className={styles.thumbnailContainer}>
-				<Link href="/">
+				<Link href="/" passHref>
 					<button type="button">
 						<Image src="/arrow-left.svg" alt="Voltar" width={192} height={80} />
 					</button>
@@ -45,6 +45,7 @@ export default function Episode({ episode }: EpisodeProps) {
 					width={700}
 					height={160}
 					objectFit="cover"
+					alt="thumbnail"
 				/>
 				<button type="button" onClick={() => play(episode)}>
 					<Image
