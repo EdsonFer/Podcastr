@@ -4,17 +4,13 @@
 
 <br>
 
-## 🔥 Prévia 
+## 🔥 Prévia
 
 O podcastr é um app para reprodução de episódios em áudio do seu podcast favorito.
 
 <p align="center">
   <img alt="Podcastr" src="https://raw.githubusercontent.com/rocketseat-education/nlw-05-reactjs/main/.github/podcastr.png" width="100%">
 </p>
-
-## 💻 Acessar
-
-<a href="https://" target="_blank" alt="">Podcastr</a>
 
 ## ✨ Tecnologias
 
@@ -37,6 +33,4 @@ Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navega
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-* **Edson Fernandes** - *Front-end* - [EdsonFer](https://github.com/EdsonFer)
-
-
+- **Edson Fernandes** - _Front-end_ - [EdsonFer](https://github.com/EdsonFer)
