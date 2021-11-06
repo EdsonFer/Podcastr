@@ -4,10 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "server": "json-server server.json -p 3333",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "server": "json-server server.json -w -d 750 -p 3333"
+    "lint": "next lint"
   },
   "dependencies": {
     "axios": "^0.24.0",
